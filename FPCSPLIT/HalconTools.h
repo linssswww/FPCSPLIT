@@ -22,7 +22,7 @@ using namespace HalconCpp;
 class Matching
 {
 public:
-	Matching(std::string template_path,
+	Matching(std::string template_path, 
 		float match_thresh,
 		int match_num,
 		int match_levels);
